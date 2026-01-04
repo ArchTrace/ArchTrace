@@ -101,7 +101,7 @@ For questions or issues, please [create an issue](https://github.com/ArchTrace/A
 
 ## 📄 License
 
-Copyright © 2025 ArchTrace. All rights reserved.
+Copyright © 2026 ArchTrace. All rights reserved.
 
 This software is proprietary. You may:
 - ✅ Download and use the application for personal or commercial purposes
