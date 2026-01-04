@@ -95,7 +95,7 @@ These systems show warnings for apps not signed with commercial certificates (co
 
 ## 📞 Support
 
-For questions or issues, please [create an issue](https://github.com/ArchTrace/ArchTrace/issues).
+For questions or issues, please [create an issue](https://github.com/ArchTrace/ArchTrace/issues) or [create a ticket](https://archtrace.dev/contact).
 
 ---
 
