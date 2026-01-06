@@ -47,25 +47,25 @@ xattr -cr /Applications/ArchTrace.app
 #### AppImage (Universal)
 ```bash
 # Download
-wget https://github.com/ArchTrace/ArchTrace/releases/download/vX.Y.Z/archtrace_X.Y.Z_amd64.AppImage
+wget https://github.com/ArchTrace/ArchTrace/releases/download/vX.Y.Z/Archtrace_X.Y.Z_amd64.AppImage
 
 # Make executable
-chmod +x archtrace_X.Y.Z_amd64.AppImage
+chmod +x Archtrace_X.Y.Z_amd64.AppImage
 
 # Run
-./archtrace_X.Y.Z_amd64.AppImage
+./Archtrace_X.Y.Z_amd64.AppImage
 ```
 
 #### Debian/Ubuntu (.deb)
 ```bash
-wget https://github.com/ArchTrace/ArchTrace/releases/download/vX.Y.Z/archtrace_X.Y.Z_amd64.deb
-sudo dpkg -i archtrace_X.Y.Z_amd64.deb
+wget https://github.com/ArchTrace/ArchTrace/releases/download/vX.Y.Z/Archtrace_X.Y.Z_amd64.deb
+sudo dpkg -i Archtrace_X.Y.Z_amd64.deb
 ```
 
 #### RPM (Fedora, RHEL, etc.)
 ```bash
-wget https://github.com/ArchTrace/ArchTrace/releases/download/vX.Y.Z/archtrace-X.Y.Z-1.x86_64.rpm
-sudo rpm -i archtrace-X.Y.Z-1.x86_64.rpm
+wget https://github.com/ArchTrace/ArchTrace/releases/download/vX.Y.Z/Archtrace-X.Y.Z-1.x86_64.rpm
+sudo rpm -i Archtrace-X.Y.Z-1.x86_64.rpm
 ```
 
 ---
