@@ -43,19 +43,6 @@ xattr -cr /Applications/ArchTrace.app
 ```
 
 ### Linux
-
-#### AppImage (Universal)
-```bash
-# Download
-wget https://github.com/ArchTrace/ArchTrace/releases/download/vX.Y.Z/Archtrace_X.Y.Z_amd64.AppImage
-
-# Make executable
-chmod +x Archtrace_X.Y.Z_amd64.AppImage
-
-# Run
-./Archtrace_X.Y.Z_amd64.AppImage
-```
-
 #### Debian/Ubuntu (.deb)
 ```bash
 wget https://github.com/ArchTrace/ArchTrace/releases/download/vX.Y.Z/Archtrace_X.Y.Z_amd64.deb
